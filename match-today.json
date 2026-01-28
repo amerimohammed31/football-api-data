@@ -725,14 +725,19 @@
           "name": "Independiente",
           "logo": "https://assets-fr.imgfoot.com/media/cache/60x60/club/independiente.png"
         },
-        "score": "0 - 1",
-        "status": "live",
-        "time": "86'",
-        "isLive": true,
-        "winner": null,
+        "score": "1 - 1",
+        "status": "finished",
+        "time": "terminé",
+        "isLive": false,
+        "winner": "draw",
         "broadcasts": [],
         "goals": {
-          "home": [],
+          "home": [
+            {
+              "player": "M. Hoyos",
+              "minute": "89'"
+            }
+          ],
           "away": [
             {
               "player": "G. Ávalos",
@@ -2152,9 +2157,9 @@
           "name": "Chile",
           "logo": "https://www.footmercato.net/build/images/flags-v2-png/chl.4f41d5c0.png"
         },
-        "score": null,
+        "score": "0 - 0",
         "status": "live",
-        "time": "2026-01-28T03:00:00+00:00",
+        "time": "10'",
         "isLive": true,
         "winner": null,
         "broadcasts": [],
