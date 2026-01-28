@@ -704,10 +704,10 @@
           "logo": "https://assets-fr.imgfoot.com/media/cache/60x60/club/central-cordoba-santiago.png"
         },
         "score": "0 - 0",
-        "status": "live",
-        "time": "85'",
-        "isLive": true,
-        "winner": null,
+        "status": "finished",
+        "time": "terminé",
+        "isLive": false,
+        "winner": "draw",
         "broadcasts": [],
         "goals": {
           "home": [],
@@ -727,7 +727,7 @@
         },
         "score": "0 - 1",
         "status": "live",
-        "time": "76'",
+        "time": "86'",
         "isLive": true,
         "winner": null,
         "broadcasts": [],
