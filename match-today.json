@@ -640,15 +640,20 @@
           "name": "San Lorenzo",
           "logo": "https://assets-fr.imgfoot.com/media/cache/60x60/club/san-lorenzo.png"
         },
-        "score": "0 - 0",
-        "status": "live",
-        "time": "59'",
-        "isLive": true,
-        "winner": null,
+        "score": "0 - 1",
+        "status": "finished",
+        "time": "terminé",
+        "isLive": false,
+        "winner": "away",
         "broadcasts": [],
         "goals": {
           "home": [],
-          "away": []
+          "away": [
+            {
+              "player": "D. Herazo",
+              "minute": "70'"
+            }
+          ]
         }
       },
       {
@@ -662,11 +667,11 @@
           "name": "Independiente",
           "logo": "https://assets-fr.imgfoot.com/media/cache/60x60/club/independiente-rivadavia.png"
         },
-        "score": "1 - 1",
-        "status": "live",
-        "time": "60'",
-        "isLive": true,
-        "winner": null,
+        "score": "1 - 2",
+        "status": "finished",
+        "time": "terminé",
+        "isLive": false,
+        "winner": "away",
         "broadcasts": [],
         "goals": {
           "home": [
@@ -679,6 +684,10 @@
             {
               "player": "F. Sartori",
               "minute": "53'"
+            },
+            {
+              "player": "S. Studer",
+              "minute": "65'"
             }
           ]
         }
@@ -694,10 +703,10 @@
           "name": "Córdoba SdE",
           "logo": "https://assets-fr.imgfoot.com/media/cache/60x60/club/central-cordoba-santiago.png"
         },
-        "score": null,
-        "status": "scheduled",
-        "time": "2026-01-28T01:15:00+00:00",
-        "isLive": false,
+        "score": "0 - 0",
+        "status": "live",
+        "time": "9'",
+        "isLive": true,
         "winner": null,
         "broadcasts": [],
         "goals": {
@@ -716,10 +725,10 @@
           "name": "Independiente",
           "logo": "https://assets-fr.imgfoot.com/media/cache/60x60/club/independiente.png"
         },
-        "score": null,
-        "status": "scheduled",
-        "time": "2026-01-28T01:15:00+00:00",
-        "isLive": false,
+        "score": "0 - 0",
+        "status": "live",
+        "time": "7'",
+        "isLive": true,
         "winner": null,
         "broadcasts": [],
         "goals": {
@@ -910,14 +919,23 @@
           "name": "Cerro Porteño",
           "logo": "https://assets-fr.imgfoot.com/media/cache/60x60/club/cerro-porteno.png"
         },
-        "score": "0 - 2",
-        "status": "live",
-        "time": "MT",
-        "isLive": true,
-        "winner": null,
+        "score": "2 - 4",
+        "status": "finished",
+        "time": "terminé",
+        "isLive": false,
+        "winner": "away",
         "broadcasts": [],
         "goals": {
-          "home": [],
+          "home": [
+            {
+              "player": "J. Barrios",
+              "minute": "72' (sp)"
+            },
+            {
+              "player": "V. Céspedes",
+              "minute": "77'"
+            }
+          ],
           "away": [
             {
               "player": "B. Riveros",
@@ -925,7 +943,11 @@
             },
             {
               "player": "J. Iturbe",
-              "minute": "45'+2"
+              "minute": "45'+2, 62'"
+            },
+            {
+              "player": "G. Aguayo",
+              "minute": "90'+5"
             }
           ]
         }
