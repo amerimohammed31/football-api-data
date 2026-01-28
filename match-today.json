@@ -705,7 +705,7 @@
         },
         "score": "0 - 0",
         "status": "live",
-        "time": "19'",
+        "time": "MT",
         "isLive": true,
         "winner": null,
         "broadcasts": [],
@@ -725,15 +725,20 @@
           "name": "Independiente",
           "logo": "https://assets-fr.imgfoot.com/media/cache/60x60/club/independiente.png"
         },
-        "score": "0 - 0",
+        "score": "0 - 1",
         "status": "live",
-        "time": "17'",
+        "time": "MT",
         "isLive": true,
         "winner": null,
         "broadcasts": [],
         "goals": {
           "home": [],
-          "away": []
+          "away": [
+            {
+              "player": "G. Ávalos",
+              "minute": "34'"
+            }
+          ]
         }
       },
       {
@@ -992,9 +997,9 @@
           "logo": "https://assets-fr.imgfoot.com/media/cache/60x60/club/vegalta-sendai.png"
         },
         "score": null,
-        "status": "scheduled",
+        "status": "live",
         "time": "2026-01-28T02:00:00+00:00",
-        "isLive": false,
+        "isLive": true,
         "winner": null,
         "broadcasts": [],
         "goals": {
