@@ -2157,14 +2157,19 @@
           "name": "Chile",
           "logo": "https://www.footmercato.net/build/images/flags-v2-png/chl.4f41d5c0.png"
         },
-        "score": "0 - 0",
+        "score": "1 - 0",
         "status": "live",
-        "time": "10'",
+        "time": "21'",
         "isLive": true,
         "winner": null,
         "broadcasts": [],
         "goals": {
-          "home": [],
+          "home": [
+            {
+              "player": "C. Bethune",
+              "minute": "18'"
+            }
+          ],
           "away": []
         }
       }
